@@ -54,6 +54,7 @@ public class Solution {
         }
 
         visited[i][j] = true;
+        
         if(distance < rooms[i][j]) {
             rooms[i][j] = distance;
         }
