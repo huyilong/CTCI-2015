@@ -1,0 +1,29 @@
+1.	An abstract class must have at least one abstract method.
+Answer: TRUE
+
+2.	Inheritance shows “is a” relation.
+Answer: TURE
+
+3.	We can use try-finally block without catch clause.
+Answer: TRUE
+
+4.	StringBuilder is a thread-safe class.
+Answer: FALSE
+
+5.	ArrayList has better performance than Vector.
+Answer: TRUE
+
+6.	IOException is an unchecked exception. 
+Answer: FALSE
+
+7.	A transient field can not be serialized.
+Answer: 
+
+8.	A constructor is a method that can only have return type void.
+Answer: FALSE
+
+9.	We can define public static final void main method. 
+Answer: TURE
+
+10.	clone() method in class Object makes a deep copy of an object.
+Answer: 
